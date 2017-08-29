@@ -11,7 +11,7 @@ install.packages(path_to_file, repos = NULL, type="source")
 ```
 where 'path_to_file' is the directory containing the file 'Medbetareg_1.0.tar.gz'.
 
-If you find any bug, please write to <alessandro.magrini@for.unipi.it> (Alessandro Magrini)
+If you find any bug, please write to <alessandro.magrini@outlook.com> (Alessandro Magrini)
 
 Below, you find the code to replicate the results in the article.
 _________________________________________________________________
