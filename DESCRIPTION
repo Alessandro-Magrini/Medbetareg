@@ -1,0 +1,13 @@
+Package: Medbetareg
+Type: Package
+Title: Generalized Beta regression to elicit conditional distributions
+        of medical variables
+Version: 1.0
+Date: 2018-06-25
+Author: Alessandro Magrini
+Maintainer: Alessandro Magrini <alessandro.magrini@unifi.it>
+Description: Software implementing the methodology proposed by Magrini et al. (2018) <DOI:10.17713/ajs.v47i3.629>. The elicitation of an informative prior distribution on parameters of a univariate conditional model is typically difficult when the response is a medical continuous variable, because some level of statistical training is required to a medical expert for interpreting parameters and for retrieving appropriate quantitative information about them. Magrini et al. (2018) proposed a generalized Beta regression where parameter elicitation is performed by establishing a correspondence among measured values expressed as relative positions within intervals with a clinical interpretation, regardless the original scales of variables.
+Depends: BB, betareg
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2018-06-25 15:43:15 UTC; Alessandro

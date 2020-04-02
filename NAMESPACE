@@ -1,0 +1,10 @@
+export(rescale, invRescale, eValFun.plot, newPrior, predictive)
+
+S3method(print, mbr)
+S3method(summary, mbr)
+S3method(plot, mbr)
+
+importFrom("graphics", "abline", "axis", "box", "curve", "grid","lines", "par", "plot", "text", "title")
+importFrom("stats", "coef", "cov", "density", "dlnorm", "dnorm","plogis","qbeta", "qlnorm", "qnorm", "quantile", "rbeta","rnorm")
+importFrom("utils", "flush.console")
+import(BB, betareg)
