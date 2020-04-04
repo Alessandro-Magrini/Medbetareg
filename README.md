@@ -1,20 +1,22 @@
-Medbetareg is a R package containing the software for the method proposed in the article:
+# Medbetareg
+
+R package implementing the methodology proposed in the article:
 
 A. Magrini, D. Luciani, F. M. Stefanini (2018).
-__Generalized Beta Regression to Elicit Conditional Distributions of Medical Variables__.
+__Generalized Beta regression to elicit conditional distributions of medical variables__.
 _Austrian Journal of Statistics_, 47(3). https://doi.org/10.17713/ajs.v47i3.629 
 
-R (The R Project for Statistical Computing) need to be installed on your system for
-`Medbetareg` to work. R can be downloaded from https://www.r-project.org/.
+R (The R Project for Statistical Computing) needs to be installed on your system in order
+to use the `Medbetareg` package. R can be downloaded from https://www.r-project.org/.
 
-To install `Medbetareg`, open the console of R and type:
+To install the `Medbetareg` package, open the console of R and type:
 ```
 install.packages("devtools")  ## do not run if package 'devtools' is already installed
 library(devtools)
 install_github("alessandromagrini/Medbetareg")
 ```
 
-For any requestor feedback, please write to <alessandro.magrini@unifi.it> (Alessandro Magrini)
+For any request or feedback, please write to <alessandro.magrini@unifi.it> (Alessandro Magrini)
 
 Below, you find the code to replicate the results in the article.
 _________________________________________________________________
