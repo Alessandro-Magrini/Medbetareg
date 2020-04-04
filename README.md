@@ -1,6 +1,8 @@
 # Medbetareg
 
-R package implementing the methodology proposed in the article:
+__Elicitation of conditional distributions of medical variables using generalized Beta regression__
+
+`Medbetareg` is a R package implementing the methodology proposed in the article:
 
 A. Magrini, D. Luciani, F. M. Stefanini (2018).
 __Generalized Beta regression to elicit conditional distributions of medical variables__.
