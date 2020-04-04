@@ -1,6 +1,6 @@
 # Medbetareg
-
 __Elicitation of conditional distributions of medical variables using generalized Beta regression__
+__________________________________
 
 `Medbetareg` is a R package implementing the methodology proposed in the article:
 
